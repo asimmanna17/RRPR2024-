@@ -8,7 +8,7 @@
 * 16GB RAM for inference
 * CUDA 11.2
 ## Setup
-* Create enviorment: `conda create -n rrpr  python=3.9.6 pip`
+* Create enviorment: `conda create -n rrpr python=3.9.6 pip`
 * Activate enviorment: `source activate rrpr`
 * pip install: `pip install -r requirements.txt`
 
