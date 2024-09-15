@@ -10,6 +10,7 @@
 ## Setup
 * Create enviorment: `conda create -n rrpr python=3.9.6 pip`
 * Activate enviorment: `source activate rrpr`
+* Download: `git clone 
 * pip install: `pip install -r requirements.txt`
 
 ## Instruction
