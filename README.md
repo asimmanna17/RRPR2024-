@@ -3,11 +3,14 @@
 
 ## Prerequisites
 * Ubuntu\* 20.04
+* Debian
 * Python\* 3.9.6
 * NVidia\* GPU for training
 * 16GB RAM for inference
 * CUDA 11.2
+  
 ## Setup
+* Install Git LFS: `
 * Create enviorment: `conda create -n rrpr python=3.9.6 pip`
 * Activate enviorment: `source activate rrpr`
 * Download: `git clone https://github.com/asimmanna17/RRPR2024.git`
