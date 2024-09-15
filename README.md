@@ -10,7 +10,7 @@
 * CUDA 11.2
   
 ## Setup
-* Install Git LFS: `
+* Install Git LFS: `curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash`, `sudo apt-get install git-lfs`
 * Create enviorment: `conda create -n rrpr python=3.9.6 pip`
 * Activate enviorment: `source activate rrpr`
 * Download: `git clone https://github.com/asimmanna17/RRPR2024.git`
