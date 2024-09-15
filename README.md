@@ -3,7 +3,7 @@
 
 ## Prerequisites
 * Ubuntu\* 20.04
-* Python\* 3.9
+* Python\* 3.9.6
 * NVidia\* GPU for training
 * 16GB RAM for inference
 * CUDA 11.2
@@ -11,6 +11,7 @@
 * Create enviorment: `conda create -n rrpr python=3.9.6 pip`
 * Activate enviorment: `source activate rrpr`
 * Download: `git clone https://github.com/asimmanna17/RRPR2024.git`
+* Change directory: `cd RRPR2024`
 * pip install: `pip install -r requirements.txt`
 
 ## Instruction
